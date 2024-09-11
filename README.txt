@@ -13,7 +13,7 @@ Requirements:
 - Create a line chart that graphs the relationship between a goal amount and its chances of success, failure, or cancellation.
 - Use Excel to evaluate the following values for successful campaigns:
 
-###Evaluate: 
+Evaluate: 
 - The mean number of backers
 - The median number of backers
 - The minimum number of backers
